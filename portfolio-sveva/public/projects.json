@@ -1,0 +1,20 @@
+    [
+        {
+            "title": "Cohiba",
+            "description": "Portfolio project dedicato all'universo Cohiba, con focus su identita', immaginario luxury e presentazione visiva del brand.",
+            "image": "",
+            "link": "/Cohiba.pdf"
+        },
+        {
+            "title": "Marry me in Spain",
+            "description": "Progetto per Marry Me in Spain, sviluppato per raccontare un immaginario wedding destination attraverso una presentazione visiva elegante e coerente.",
+            "image": "",
+            "link": "/MarryMeInSpain.pdf"
+        },
+        {
+            "title": "Frosty Frames",
+            "description": "Concept project costruito attorno a un immaginario visivo fresco e narrativo, con attenzione alla presentazione editoriale e alla coerenza estetica.",
+            "image": "",
+            "link": "/FrostyFrames.pdf"
+        }
+    ]
