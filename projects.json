@@ -1,20 +1,26 @@
-    [
-        {
-            "title": "Cohiba",
-            "description": "Portfolio project dedicato all'universo Cohiba, con focus su identita', immaginario luxury e presentazione visiva del brand.",
-            "image": "",
-            "link": "/Cohiba.pdf"
-        },
-        {
-            "title": "Marry me in Spain",
-            "description": "Progetto per Marry Me in Spain, sviluppato per raccontare un immaginario wedding destination attraverso una presentazione visiva elegante e coerente.",
-            "image": "",
-            "link": "/MarryMeInSpain.pdf"
-        },
-        {
-            "title": "Frosty Frames",
-            "description": "Concept project costruito attorno a un immaginario visivo fresco e narrativo, con attenzione alla presentazione editoriale e alla coerenza estetica.",
-            "image": "",
-            "link": "/FrostyFrames.pdf"
-        }
-    ]
+[
+    {
+        "title": "Cohiba",
+        "description": "Designing an ESG strategy for a luxury tobacco brand, focusing on solution design and measurable performance through KPIs.",
+        "image": "/CohibaImage.jpeg",
+        "link": "/Cohiba.pdf"
+    },
+    {
+        "title": "Marry Me In Spain",
+        "description": "Designing a customer-centered digital strategy for a wedding service, structuring the user journey through communication and data-driven insights.",
+        "image": "/MarryMeInSpainImage.jpeg",
+        "link": "/MarryMeInSpain.pdf"
+    },
+    {
+        "title": "Frosty Frames",
+        "description": "Development of luxury performance eyewear designed for lifestyle driven skiers, creating a dual-use product that combines both technical and fashion features.",
+        "image": "/FrostyFramesImage.jpeg",
+        "link": "/FrostyFrames.pdf"
+    },
+    {
+        "title": "Saks",
+        "description": "Strategic development of a transformation plan for a luxury retailer, addressing financial and operational challenges and formulating alternative solutions.",
+        "image": "/SaksImage.jpeg",
+        "link": "/Saks.pdf"
+    }
+]
